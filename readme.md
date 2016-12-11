@@ -8,6 +8,11 @@ $ npm install --global alfred-ssh
 
 *Requires [Node.js](https://nodejs.org) 6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
+## Usage
+
+In Alfred, type `ssh`, <kbd>Enter</kbd>, and some text, to find ssh.
+
+Select an ssh and press <kbd>Enter</kbd> to open a new terminal and run query.
 
 ## Related
 
