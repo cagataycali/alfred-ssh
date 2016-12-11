@@ -1,4 +1,5 @@
-# Use ssh like a pro!
+# Use ssh like a pro! [![Build Status](https://travis-ci.org/cagataycali/alfred-ssh.svg?branch=master)](https://travis-ci.org/cagataycali/alfred-ssh)
+
 
 ## Install
 
