@@ -1,0 +1,33 @@
+{
+  "name": "alfred-ssh",
+  "version": "1.0.0",
+  "description": "Use ssh like a pro!",
+  "license": "MIT",
+  "repository": "cagataycali/l00g.ssh",
+  "author": {
+    "name": "Cagatay Cali",
+    "email": "cagataycali@icloud.com",
+    "url": "cagatay.me"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred-workflow",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0",
+    "ssh-config-parser": "0.0.0"
+  }
+}
