@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Use ssh like a pro!",
   "license": "MIT",
-  "repository": "cagataycali/l00g.ssh",
+  "repository": "cagataycali/alfred-ssh",
   "author": {
     "name": "Cagatay Cali",
     "email": "cagataycali@icloud.com",
