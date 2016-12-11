@@ -1,4 +1,4 @@
-# alfred-ssh [![Build Status](https://travis-ci.org/cagataycali/alfred-ssh.svg?branch=master)](https://travis-ci.org/cagataycali/alfred-ssh)
+# Use ssh like a pro!
 
 ## Install
 

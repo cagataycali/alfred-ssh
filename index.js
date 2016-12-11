@@ -1,6 +1,5 @@
 'use strict';
 const alfy = require('alfy');
-
 var fs = require('fs');
 var parser = require('ssh-config-parser');
 var configDir = process.env['HOME'] + '/.ssh/config';
